@@ -31,4 +31,4 @@ Este projeto é um aplicativo Android que permite o cadastro de alunos em um ban
 
 2. **Clonar o Repositório**: 
    ```bash
-   git clone https://github.com/seu_usuario/cadastro-alunos.git
+   git clone https://github.com/AlissonMM/BancoDeDadosAndroid.git
